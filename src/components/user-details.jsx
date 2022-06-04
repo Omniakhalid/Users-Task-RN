@@ -1,4 +1,3 @@
-//import { Box, Text } from "native-base";
 import { useContext, useEffect } from "react";
 import { getUserDetails } from "../actions";
 import { usersContext } from "../context";
